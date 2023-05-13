@@ -51,6 +51,12 @@ We analyzed the time-series data of temperatures and emissions to observe any tr
 ### Step 4: Data Visualization
 We created various visualizations to better understand the data and the relationships between variables. We created scatter plots, line plots, heatmaps, and bar charts to visualize the data and observed patterns and trends.
 
+
+Dashboard links:
+<div><iframe title="co2_report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmYzYjEyM2EtMWNiYS00M2ExLTliNzItZWI1MzkzOTQ0MGFjIiwidCI6IjA0ODI4NGUzLTljYjYtNGE3ZC1iMjU0LTA3ZDQ3N2Y4YzgzMiJ9" frameborder="0" allowFullScreen="true"></iframe></div>
+
+<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWUwNzNiYTMtZWNjOS00M2JjLTllM2YtZTdhMWE4Yzg1MzRhIiwidCI6IjA0ODI4NGUzLTljYjYtNGE3ZC1iMjU0LTA3ZDQ3N2Y4YzgzMiJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 ## Conclusion
 In conclusion, this project aimed to study the impact of GHG emissions on climate change using data analysis and visualization techniques. The project involved acquiring data from various
 
