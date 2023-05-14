@@ -52,6 +52,8 @@ Analyzed the time-series data of temperatures and emissions to observe any trend
 Created various visualizations to better understand the data and the relationships between variables. Also created scatter plots, line plots, heatmaps, and bar charts to visualize the data and observed patterns and trends.
 
 
+
+
 Dashboard links:
 <div><iframe title="co2_report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmYzYjEyM2EtMWNiYS00M2ExLTliNzItZWI1MzkzOTQ0MGFjIiwidCI6IjA0ODI4NGUzLTljYjYtNGE3ZC1iMjU0LTA3ZDQ3N2Y4YzgzMiJ9" frameborder="0" allowFullScreen="true"></iframe></div>
 
