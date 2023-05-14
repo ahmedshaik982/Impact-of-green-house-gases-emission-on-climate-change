@@ -50,6 +50,7 @@ Analyzed the time-series data of temperatures and emissions to observe any trend
 
 ### Step 4: Data Visualization
 Created various visualizations to better understand the data and the relationships between variables. Also created scatter plots, line plots, heatmaps, and bar charts to visualize the data and observed patterns and trends.
+**Some Visualizations: **
 
 ![image](https://github.com/ahmedshaik982/Impact-of-green-house-gases-emission-on-climate-change/assets/117965293/3c2e21f6-bd8a-4049-9d78-42354448626a)
 ![image](https://github.com/ahmedshaik982/Impact-of-green-house-gases-emission-on-climate-change/assets/117965293/7aec8856-1ee5-4af7-bb5e-ced96e51f258)
@@ -66,13 +67,13 @@ Created various visualizations to better understand the data and the relationshi
 
 
 
-Dashboard links:
-<div><iframe title="co2_report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmYzYjEyM2EtMWNiYS00M2ExLTliNzItZWI1MzkzOTQ0MGFjIiwidCI6IjA0ODI4NGUzLTljYjYtNGE3ZC1iMjU0LTA3ZDQ3N2Y4YzgzMiJ9" frameborder="0" allowFullScreen="true"></iframe></div>
+**Analytics Dashboard links:**
+CO2 Emission Analysis:
+https://app.powerbi.com/view?r=eyJrIjoiNmYzYjEyM2EtMWNiYS00M2ExLTliNzItZWI1MzkzOTQ0MGFjIiwidCI6IjA0ODI4NGUzLTljYjYtNGE3ZC1iMjU0LTA3ZDQ3N2Y4YzgzMiJ9
+Greenhouse Gases Analysis:
+https://app.powerbi.com/view?r=eyJrIjoiOWUwNzNiYTMtZWNjOS00M2JjLTllM2YtZTdhMWE4Yzg1MzRhIiwidCI6IjA0ODI4NGUzLTljYjYtNGE3ZC1iMjU0LTA3ZDQ3N2Y4YzgzMiJ9
 
-<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWUwNzNiYTMtZWNjOS00M2JjLTllM2YtZTdhMWE4Yzg1MzRhIiwidCI6IjA0ODI4NGUzLTljYjYtNGE3ZC1iMjU0LTA3ZDQ3N2Y4YzgzMiJ9" frameborder="0" allowFullScreen="true"></iframe>
-
-## Conclusion
-<br>
+## Conclusion:
 
 <ul>
     <li><strong>Japan</strong> is the country which emits CO2 in high quantity.</li> 
