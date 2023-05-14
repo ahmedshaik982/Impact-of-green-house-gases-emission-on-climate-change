@@ -25,31 +25,31 @@ The GHG emissions data consists of six datasets:
 
 
 ### Step 2: Data Preparation
-We combined the temperature dataset with each of the six datasets from GHG emissions data, taking variance, mean, maximum temperatures into consideration. We then prepared six fully prepared datasets ready for analysis.
+Combined the temperature dataset with each of the six datasets from GHG emissions data, taking variance, mean, maximum temperatures into consideration. Then prepared six fully prepared datasets ready for analysis.
 
 ### Step 3: Data Analysis
-We analyzed every dataset, including descriptive statistics and distribution plots of temperature features and emissions. We calculated the top 10 countries with high emissions of both CO2 and GHG and analyzed sector-wise emissions. We also performed correlation analysis, regression analysis, and time-series analysis of temperatures and emissions.
+Analyzed every dataset, including descriptive statistics and distribution plots of temperature features and emissions. Also calculated the top 10 countries with high emissions of both CO2 and GHG and analyzed sector-wise emissions. Performed correlation analysis, regression analysis, and time-series analysis of temperatures and emissions.
 
 **Descriptive Statistics and Distribution Plots**
-We first looked at the descriptive statistics and distribution plots of temperature features and emissions for each country. We observed that the temperature and emissions data for each country followed a normal distribution.
+First looked at the descriptive statistics and distribution plots of temperature features and emissions for each country. Observed that the temperature and emissions data for each country followed a normal distribution.
 
 **Top 10 Countries with High Emissions**
-We calculated the top 10 countries with the highest CO2 and GHG emissions. We found that China, the United States, and India were the top emitters of both CO2 and GHG.
+Calculated the top 10 countries with the highest CO2 and GHG emissions. Found that Japan, China, the United States, and Russia were the top emitters of both CO2 and GHG.
 
 **Sector-wise Emissions**
-We analyzed sector-wise emissions for each country. We found that the power generation sector was the most significant emitter of CO2 and GHG.
+Analyzed sector-wise emissions for each country. Found that the power generation sector was the most significant emitter of CO2 and GHG.
 
 **Correlation Analysis**
-We performed a correlation analysis to investigate the relationship between temperature and emissions. We found that the two variables had a negative correlation of 20%.
+Performed a correlation analysis to investigate the relationship between temperature and emissions.
 
 **Regression Analysis**
-We performed a regression analysis to model the relationship between temperature and emissions. We found that there was a significant linear relationship between the two variables.
+Performed a regression analysis to model the relationship between temperature and emissions. Found that there was a significant linear relationship between the two variables.
 
 **Time-series Analysis**
-We analyzed the time-series data of temperatures and emissions to observe any trends and patterns. We found that both temperature and emissions had an increasing trend over the years.
+Analyzed the time-series data of temperatures and emissions to observe any trends and patterns. Found that both temperature and emissions had an increasing trend over the years.
 
 ### Step 4: Data Visualization
-We created various visualizations to better understand the data and the relationships between variables. We created scatter plots, line plots, heatmaps, and bar charts to visualize the data and observed patterns and trends.
+Created various visualizations to better understand the data and the relationships between variables. Also created scatter plots, line plots, heatmaps, and bar charts to visualize the data and observed patterns and trends.
 
 
 Dashboard links:
@@ -58,6 +58,47 @@ Dashboard links:
 <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWUwNzNiYTMtZWNjOS00M2JjLTllM2YtZTdhMWE4Yzg1MzRhIiwidCI6IjA0ODI4NGUzLTljYjYtNGE3ZC1iMjU0LTA3ZDQ3N2Y4YzgzMiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Conclusion
-In conclusion, this project aimed to study the impact of GHG emissions on climate change using data analysis and visualization techniques. The project involved acquiring data from various
+<br>
+
+<ul>
+    <li><strong>Japan</strong> is the country which emits CO2 in high quantity.</li> 
+    
+<li>CO2 emissions and Variance of temperature are <strong>36%</strong> positively correlated with each other.</li>
+    
+<li>By using linear regression, predicted the CO2 emissions for the future years:</li>
+<ul>
+    
+<li>At 2030, there will be approximately <strong>18028.504142</strong> metric tonnes of CO2 emissions.</li>
+<li>At 2040, there will be approximately <strong>19502.314573</strong> metric tonnes of CO2 emissions.</li>
+<li>At 2050, there will be approximately <strong>20976.125004</strong> metric tonnes of CO2 emissions.</li>
+</ul>
+<li>There is a trend of increasing CO2 and greenhouse gases emissions and average temperature over the years.</li>
+
+
+<li>The <strong>power industry</strong> has been producing more CO2 emissions and Greenhouse gases over the years, making it a major contributor to environmental pollution.</li>
+
+<li><strong>Qatar</strong> has the highest CO2 emissions per person compared to any other country.</li>
+
+
+<li>There is a positive correlation of <strong>38%</strong> between CO2 emissions per capita and temperature variance. This means that as CO2 emissions per person increase, there is a corresponding increase in the variability of temperature.</li>
+
+
+<li>The <strong>United States</strong> produces a large quantity of greenhouse gases compared to any other country.</li>
+
+<li>There is a moderate correlation of <strong>26%</strong> between total greenhouse gas emissions and temperature variance. This suggests that as greenhouse gas emissions increase, there is a corresponding impact on the variability of temperature.</li>
+
+<li>By using linear regression, predicted the Total green house gases emissions for the future years:</li>
+<ul>
+<li>At 2030, there will be approximately <strong>50964.282836</strong> metric tonnes of green house gases emissions.</li>
+<li>At 2040, there will be approximately <strong>56105.610036</strong> metric tonnes of green house gases emissions.</li>
+<li>At 2050, there will be approximately <strong>61246.937235</strong> metric tonnes of green house gases emissions.</li>
+    </ul>
+<li><strong>Palau</strong> has the highest greenhouse gases emissions per person compared to any other country.</li>
+
+<li>There is a positive correlation of <strong>15%</strong> between greenhouse gases emissions per capita and temperature variance. This means that as CO2 emissions per person increase, there is a corresponding increase in the variability of temperature.</li>
+
+
+</ul>
+
 
 
