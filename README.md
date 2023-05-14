@@ -51,6 +51,18 @@ Analyzed the time-series data of temperatures and emissions to observe any trend
 ### Step 4: Data Visualization
 Created various visualizations to better understand the data and the relationships between variables. Also created scatter plots, line plots, heatmaps, and bar charts to visualize the data and observed patterns and trends.
 
+![image](https://github.com/ahmedshaik982/Impact-of-green-house-gases-emission-on-climate-change/assets/117965293/3c2e21f6-bd8a-4049-9d78-42354448626a)
+![image](https://github.com/ahmedshaik982/Impact-of-green-house-gases-emission-on-climate-change/assets/117965293/7aec8856-1ee5-4af7-bb5e-ced96e51f258)
+![image](https://github.com/ahmedshaik982/Impact-of-green-house-gases-emission-on-climate-change/assets/117965293/e31bb868-7210-4d1c-8e66-fc3938c4c7d8)
+![image](https://github.com/ahmedshaik982/Impact-of-green-house-gases-emission-on-climate-change/assets/117965293/47d2e694-ea91-4c46-9189-acdea26545a1)
+![image](https://github.com/ahmedshaik982/Impact-of-green-house-gases-emission-on-climate-change/assets/117965293/f8122c2e-a45a-4163-9224-6da3e754ae9c)
+![image](https://github.com/ahmedshaik982/Impact-of-green-house-gases-emission-on-climate-change/assets/117965293/a8d98742-30e1-4898-ba1b-a22bf74f914c)
+![image](https://github.com/ahmedshaik982/Impact-of-green-house-gases-emission-on-climate-change/assets/117965293/7b386dc7-3018-416b-aeb8-c671aedcd5d7)
+![image](https://github.com/ahmedshaik982/Impact-of-green-house-gases-emission-on-climate-change/assets/117965293/dda65754-973b-4878-888b-8b26e6b0e0e1)
+![image](https://github.com/ahmedshaik982/Impact-of-green-house-gases-emission-on-climate-change/assets/117965293/17a11ee8-7766-40a4-9956-96f13bc4f994)
+![image](https://github.com/ahmedshaik982/Impact-of-green-house-gases-emission-on-climate-change/assets/117965293/915ae61b-a574-4613-bc9a-9b85d344595d)
+![image](https://github.com/ahmedshaik982/Impact-of-green-house-gases-emission-on-climate-change/assets/117965293/f6c5974a-f697-4925-8032-401ae225f4a7)
+![image](https://github.com/ahmedshaik982/Impact-of-green-house-gases-emission-on-climate-change/assets/117965293/e8dcaf5d-fee0-4894-a5f6-f11039d264d2)
 
 
 
